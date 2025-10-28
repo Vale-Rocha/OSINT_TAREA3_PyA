@@ -1,0 +1,340 @@
+{
+    "dominio_analizado": "vulnerable-website.com",
+    "fecha_analisis": "2025-10-26T21:49:18.522519",
+    "whois_rdap": {
+        "whois": "   Domain Name: VULNERABLE-WEBSITE.COM\r\n   Registry Domain ID: 2322040410_DOMAIN_COM-VRSN\r\n   Registrar WHOIS Server: whois.name.com\r\n   Registrar URL: http://www.name.com\r\n   Updated Date: 2025-09-17T16:48:28Z\r\n   Creation Date: 2018-10-16T14:53:45Z\r\n   Registry Expiry Date: 2026-10-16T14:53:45Z\r\n   Registrar: Name.com, Inc.\r\n   Registrar IANA ID: 625\r\n   Registrar Abuse Contact Email: abuse@name.com\r\n   Registrar Abuse Contact Phone: 7202492374\r\n   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\r\n   Name Server: NS-1299.AWSDNS-34.ORG\r\n   Name Server: NS-1602.AWSDNS-08.CO.UK\r\n   Name Server: NS-225.AWSDNS-28.COM\r\n   Name Server: NS-633.AWSDNS-15.NET\r\n   DNSSEC: unsigned\r\n   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/\r\n>>> Last update of whois database: 2025-10-27T03:48:56Z <<<\r\n\r\nFor more information on Whois status codes, please visit https://icann.org/epp\r\n\r\nNOTICE: The expiration date displayed in this record is the date the\r\nregistrar's sponsorship of the domain name registration in the registry is\r\ncurrently set to expire. This date does not necessarily reflect the expiration\r\ndate of the domain name registrant's agreement with the sponsoring\r\nregistrar.  Users may consult the sponsoring registrar's Whois database to\r\nview the registrar's reported date of expiration for this registration.\r\n\r\nTERMS OF USE: You are not authorized to access or query our Whois\r\ndatabase through the use of electronic processes that are high-volume and\r\nautomated except as reasonably necessary to register domain names or\r\nmodify existing registrations; the Data in VeriSign Global Registry\r\nServices' (\"VeriSign\") Whois database is provided by VeriSign for\r\ninformation purposes only, and to assist persons in obtaining information\r\nabout or related to a domain name registration record. VeriSign does not\r\nguarantee its accuracy. By submitting a Whois query, you agree to abide\r\nby the following terms of use: You agree that you may use this Data only\r\nfor lawful purposes and that under no circumstances will you use this Data\r\nto: (1) allow, enable, or otherwise support the transmission of mass\r\nunsolicited, commercial advertising or solicitations via e-mail, telephone,\r\nor facsimile; or (2) enable high volume, automated, electronic processes\r\nthat apply to VeriSign (or its computer systems). The compilation,\r\nrepackaging, dissemination or other use of this Data is expressly\r\nprohibited without the prior written consent of VeriSign. You agree not to\r\nuse electronic processes that are automated and high-volume to access or\r\nquery the Whois database except as reasonably necessary to register\r\ndomain names or modify existing registrations. VeriSign reserves the right\r\nto restrict your access to the Whois database in its sole discretion to ensure\r\noperational stability.  VeriSign may restrict or terminate your access to the\r\nWhois database for failure to abide by these terms of use. VeriSign\r\nreserves the right to modify these terms at any time.\r\n\r\nThe Registry database contains ONLY .COM, .NET, .EDU domains and\r\nRegistrars.\r\n",
+        "rdap": {
+            "handle": "2322040410_DOMAIN_COM-VRSN",
+            "parent_handle": "",
+            "name": "vulnerable-website.com",
+            "whois_server": "whois.name.com",
+            "type": "domain",
+            "terms_of_service_url": "https://namerdap.systems/help",
+            "copyright_notice": "",
+            "description": [],
+            "last_changed_date": "2025-09-17 16:48:28-06:00",
+            "registration_date": "2018-10-16 14:53:45-06:00",
+            "expiration_date": "2026-10-16 14:53:45-06:00",
+            "url": "https://rdap.verisign.com/com/v1/domain/VULNERABLE-WEBSITE.COM",
+            "rir": "",
+            "entities": {
+                "administrative": [
+                    {
+                        "handle": "1",
+                        "type": "entity",
+                        "name": "Redacted for Privacy",
+                        "address": {
+                            "po_box": "",
+                            "ext_address": "",
+                            "street_address": "",
+                            "locality": "",
+                            "region": "Redacted for Privacy",
+                            "postal_code": "",
+                            "country": ""
+                        }
+                    }
+                ],
+                "registrant": [
+                    {
+                        "handle": "2",
+                        "type": "entity",
+                        "name": "Redacted for Privacy",
+                        "address": {
+                            "po_box": "",
+                            "ext_address": "",
+                            "street_address": "",
+                            "locality": "",
+                            "region": "Cheshire",
+                            "postal_code": "",
+                            "country": ""
+                        }
+                    }
+                ],
+                "billing": [
+                    {
+                        "handle": "3",
+                        "type": "entity",
+                        "name": "Redacted for Privacy",
+                        "address": {
+                            "po_box": "",
+                            "ext_address": "",
+                            "street_address": "",
+                            "locality": "",
+                            "region": "Redacted for Privacy",
+                            "postal_code": "",
+                            "country": ""
+                        }
+                    }
+                ],
+                "technical": [
+                    {
+                        "handle": "4",
+                        "type": "entity",
+                        "name": "Redacted for Privacy",
+                        "address": {
+                            "po_box": "",
+                            "ext_address": "",
+                            "street_address": "",
+                            "locality": "",
+                            "region": "Redacted for Privacy",
+                            "postal_code": "",
+                            "country": ""
+                        }
+                    }
+                ],
+                "registrar": [
+                    {
+                        "handle": "625",
+                        "type": "entity",
+                        "name": "Name.com, Inc",
+                        "address": {
+                            "po_box": "",
+                            "ext_address": "",
+                            "street_address": "414 14th St #200",
+                            "locality": "Denver",
+                            "region": "CO",
+                            "postal_code": "80202",
+                            "country": ""
+                        },
+                        "email": "abuse@name.com"
+                    }
+                ],
+                "abuse": [
+                    {
+                        "type": "entity",
+                        "name": "Name.com, Inc",
+                        "email": "abuse@name.com"
+                    }
+                ]
+            },
+            "unicode_name": "",
+            "nameservers": [
+                "ns-1602.awsdns-08.co.uk",
+                "ns-225.awsdns-28.com",
+                "ns-1299.awsdns-34.org",
+                "ns-633.awsdns-15.net"
+            ],
+            "status": [
+                "transfer prohibited"
+            ],
+            "dnssec": false
+        }
+    },
+    "builtwith": [
+        [
+            "javascript-frameworks",
+            "->",
+            [
+                "AngularJS",
+                "React"
+            ]
+        ]
+    ],
+    "dns": {
+        "A": [
+            "34.249.203.140",
+            "34.246.169.176"
+        ],
+        "AAAA": [],
+        "MX": [],
+        "NS": [
+            "ns-1602.awsdns-08.co.uk.",
+            "ns-225.awsdns-28.com.",
+            "ns-633.awsdns-15.net.",
+            "ns-1299.awsdns-34.org."
+        ],
+        "TXT": [
+            "\"Probely=34ff178a-380a-4acd-86b2-2739584c4c0c\""
+        ]
+    },
+    "subdominios": [
+        {
+            "subdominio": "www.vulnerable-website.com",
+            "ips": [
+                "34.249.203.140",
+                "34.246.169.176"
+            ]
+        },
+        {
+            "subdominio": "www.vulnerable-website.com",
+            "ips": [
+                "34.249.203.140",
+                "34.246.169.176"
+            ]
+        },
+        {
+            "subdominio": "www.vulnerable-website.com",
+            "ips": [
+                "34.249.203.140",
+                "34.246.169.176"
+            ]
+        },
+        {
+            "subdominio": "www.vulnerable-website.com",
+            "ips": [
+                "34.249.203.140",
+                "34.246.169.176"
+            ]
+        },
+        {
+            "subdominio": "www.vulnerable-website.com",
+            "ips": [
+                "34.249.203.140",
+                "34.246.169.176"
+            ]
+        }
+    ],
+    "shodan": {
+        "matches": [],
+        "total": 0
+    },
+    "hunter.io": {
+        "domain": "vulnerable-website.com",
+        "disposable": false,
+        "webmail": false,
+        "accept_all": false,
+        "pattern": "{first}",
+        "organization": null,
+        "linked_domains": [],
+        "emails": [
+            {
+                "value": "feedback@vulnerable-website.com",
+                "type": "generic",
+                "confidence": 81,
+                "sources": [
+                    {
+                        "domain": "ddosi.org",
+                        "uri": "https://ddosi.org/os-command-injection",
+                        "extracted_on": "2023-08-28",
+                        "last_seen_on": "2025-10-02",
+                        "still_on_page": true
+                    },
+                    {
+                        "domain": "openbugbounty.org",
+                        "uri": "https://openbugbounty.org/blog/w4h33d_/learn-command-injection-vulnerabilities",
+                        "extracted_on": "2023-08-15",
+                        "last_seen_on": "2025-09-18",
+                        "still_on_page": true
+                    },
+                    {
+                        "domain": "portswigger.net",
+                        "uri": "https://portswigger.net/web-security/os-command-injection",
+                        "extracted_on": "2018-12-30",
+                        "last_seen_on": "2025-09-11",
+                        "still_on_page": true
+                    },
+                    {
+                        "domain": "portswigger.net",
+                        "uri": "https://portswigger.net/web-security/os-command-injection%2523ways-of-injecting-os-commands",
+                        "extracted_on": "2025-06-09",
+                        "last_seen_on": "2025-09-11",
+                        "still_on_page": true
+                    },
+                    {
+                        "domain": "openbugbounty.org",
+                        "uri": "https://openbugbounty.org/blog/learn-command-injection-vulnerabilities",
+                        "extracted_on": "2023-11-22",
+                        "last_seen_on": "2025-08-16",
+                        "still_on_page": true
+                    },
+                    {
+                        "domain": "sec.ud64.com",
+                        "uri": "https://sec.ud64.com/blind-os-command-injection-vulnerabilities-in-portswigger-2024-95966.html",
+                        "extracted_on": "2024-01-20",
+                        "last_seen_on": "2025-01-20",
+                        "still_on_page": false
+                    },
+                    {
+                        "domain": "liangroup.net",
+                        "uri": "https://liangroup.net/blog/what-is-os-command-injection",
+                        "extracted_on": "2023-10-16",
+                        "last_seen_on": "2024-01-16",
+                        "still_on_page": false
+                    },
+                    {
+                        "domain": "protey.net",
+                        "uri": "https://protey.net/threads/11-0-burp-suite-blind-os-command-injection-vulnerabilities.373",
+                        "extracted_on": "2021-07-06",
+                        "last_seen_on": "2023-07-23",
+                        "still_on_page": false
+                    },
+                    {
+                        "domain": "nhuttruong.com",
+                        "uri": "https://nhuttruong.com/2019/05/os-command-injection.html",
+                        "extracted_on": "2019-08-26",
+                        "last_seen_on": "2020-06-26",
+                        "still_on_page": false
+                    }
+                ],
+                "first_name": null,
+                "last_name": null,
+                "position": null,
+                "position_raw": null,
+                "seniority": null,
+                "department": "support",
+                "linkedin": null,
+                "twitter": null,
+                "phone_number": null,
+                "verification": {
+                    "date": null,
+                    "status": null
+                }
+            },
+            {
+                "value": "admin@vulnerable-website.com",
+                "type": "generic",
+                "confidence": 75,
+                "sources": [
+                    {
+                        "domain": "ameeba.com",
+                        "uri": "https://ameeba.com/blog/cve-2025-4797-privilege-escalation-via-account-takeover-in-golo-city-travel-guide-wordpress-theme",
+                        "extracted_on": "2025-09-27",
+                        "last_seen_on": "2025-09-27",
+                        "still_on_page": true
+                    }
+                ],
+                "first_name": null,
+                "last_name": null,
+                "position": null,
+                "position_raw": null,
+                "seniority": null,
+                "department": "it",
+                "linkedin": null,
+                "twitter": null,
+                "phone_number": null,
+                "verification": {
+                    "date": null,
+                    "status": null
+                }
+            },
+            {
+                "value": "notification@vulnerable-website.com",
+                "type": "generic",
+                "confidence": 75,
+                "sources": [
+                    {
+                        "domain": "aithietke.com",
+                        "uri": "https://aithietke.com/os-command-injection-vulnerabilities-phan-2",
+                        "extracted_on": "2023-09-16",
+                        "last_seen_on": "2025-08-23",
+                        "still_on_page": true
+                    }
+                ],
+                "first_name": null,
+                "last_name": null,
+                "position": null,
+                "position_raw": null,
+                "seniority": null,
+                "department": null,
+                "linkedin": null,
+                "twitter": null,
+                "phone_number": null,
+                "verification": {
+                    "date": null,
+                    "status": null
+                }
+            }
+        ]
+    },
+    "correos_encontrados": []
+}

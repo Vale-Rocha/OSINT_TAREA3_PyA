@@ -1,0 +1,27 @@
+Tipo,Información
+WHOIS,"Domain Name: wikipedia.org
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: http://whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-12-17T09:19:05Z
+Creation Date: 2001-01-13T00:12:14Z
+Registry Expiry Date: 2026-01-13T00:12:14Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: ns0.wikimedia.org
+Name Server: ns1.wikimedia.org
+Name Server: ns2.wikimedia.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2025-10-27T03:46:23Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.  The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+"
+RDAP,"{'handle': 'D51687756-LROR', 'parent_handle': '', 'name': 'wikipedia.org', 'whois_server': 'whois.markmonitor.com', 'type': 'domain', 'terms_of_service_url': 'https://www.markmonitor.com/legal/domain-management-terms-and-conditions', 'copyright_notice': '', 'description': [], 'last_changed_date': datetime.datetime(2024, 12, 12, 9, 18, 46, tzinfo=tzutc()), 'registration_date': datetime.datetime(2001, 1, 13, 0, 12, 14, tzinfo=tzutc()), 'expiration_date': datetime.datetime(2026, 1, 13, 0, 0, tzinfo=tzutc()), 'url': 'https://rdap.publicinterestregistry.org/rdap/domain/wikipedia.org', 'rir': '', 'entities': {'registrant': [{'type': 'entity', 'name': 'Wikimedia Foundation, Inc.', 'address': {'po_box': '', 'ext_address': '', 'street_address': 'REDACTED FOR PRIVACY', 'locality': 'REDACTED FOR PRIVACY', 'region': '', 'postal_code': 'REDACTED FOR PRIVACY', 'country': ''}, 'tel': 'REDACTED FOR PRIVACY', 'email': 'REDACTED FOR PRIVACY'}], 'technical': [{'type': 'entity'}], 'registrar': [{'handle': '292', 'url': 'https://rdap.markmonitor.com/rdap/domain/wikipedia.org', 'type': 'entity', 'name': 'Markmonitor Inc.', 'address': {'po_box': '', 'ext_address': '', 'street_address': '3540 E Longwing Ln', 'locality': 'Meridian', 'region': 'ID', 'postal_code': '83646', 'country': ''}}], 'abuse': [{'type': 'entity', 'email': 'abusecomplaints@markmonitor.com', 'tel': '+1.2086851750', 'name': 'Markmonitor Inc.'}]}, 'unicode_name': 'wikipedia.org', 'nameservers': ['ns0.wikimedia.org', 'ns1.wikimedia.org', 'ns2.wikimedia.org'], 'status': ['client update prohibited', 'client transfer prohibited', 'client delete prohibited'], 'dnssec': False}"
