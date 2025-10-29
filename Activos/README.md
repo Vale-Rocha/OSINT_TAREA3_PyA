@@ -1,13 +1,14 @@
 Actividades activas con Python
 
-Script que verifica el estado de conexion, puertos abiertos y posibles vulnerabilidades.
+Script que verifica el estado de conexión, puertos abiertos y posibles vulnerabilidades.
 
 Contenido
 
     funciones_escaneo.py — Código del manejo y estructura de funciones
     activos.py - Código principal del proyecto.
     resultados.csv, resultados.json - Resultados generales del script
-    <funcion>_<fecha>.csv - resultado de una acccion en especifico en csv
+    <funcion>_<fecha>.csv - Resultado de una accción en especifico en csv
+    
 Requisitos
 
     Python 3.8+ (probado en 3.13 en este equipo):
@@ -30,7 +31,7 @@ Uso
 
 Salida
 
-Los CSV se generan en el mismo directorio que el script. Cada funcion genera un csv con su respectivo nombre con timestamp, por ejemplo:
+Los CSV se generan en el mismo directorio que el script. Cada función genera un csv con su respectivo nombre con timestamp, por ejemplo:
 
     resultados.csv
     nmap_2025-10-29_15-47-54.csv
@@ -41,7 +42,7 @@ Los CSV se generan en el mismo directorio que el script. Cada funcion genera un 
     
 Cada CSV contiene filas legibles con los campos principales extraídos por cada función.
 
-Se genera un recopilado en formato JSON en en el mismo directorio que el script con todos los returns de las funciones y timestamps.
+Se genera un recopilado en formato JSON en el mismo directorio que el script con todos los returns de las funciones y timestamps.
     ```
     resultados.json
     ```
@@ -51,7 +52,7 @@ Buenas prácticas y seguridad
     No compartas tus API keys en repositorios públicos. Guárdalas en variables de entorno o en un archivo local ignorado por git (ej. .env) y adapta el script para leerlas.
     Asegúrate de tener autorización para realizar reconocimiento contra el dominio objetivo. Este script puede generar consultas que, sin permiso, podrían ser inapropiadas o ilegales.
     Respeta las políticas de uso de servicios como nmap.
-    Por motivos de seguridad el script viene con una variable llamada AUTHORIZED la cual es igual a 0; esto detiene la ejecucion del script. Si se quiere ejecutar el sxript se tiene que declararla a 1.
+    Por motivos de seguridad el script viene con una variable llamada AUTHORIZED la cual es igual a 0; esto detiene la ejecución del script. Si se quiere ejecutar el script se tiene que declararla a 1.
 
 Timeouts y tiempos de vida
 
