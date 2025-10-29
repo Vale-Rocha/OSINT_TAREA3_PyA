@@ -51,6 +51,7 @@ Buenas prácticas y seguridad
     No compartas tus API keys en repositorios públicos. Guárdalas en variables de entorno o en un archivo local ignorado por git (ej. .env) y adapta el script para leerlas.
     Asegúrate de tener autorización para realizar reconocimiento contra el dominio objetivo. Este script puede generar consultas que, sin permiso, podrían ser inapropiadas o ilegales.
     Respeta las políticas de uso de servicios como nmap.
+    Por motivos de seguridad el script viene con una variable llamada AUTHORIZED la cual es igual a 0; esto detiene la ejecucion del script. Si se quiere ejecutar el sxript se tiene que declararla a 1.
 
 Timeouts y tiempos de vida
 
