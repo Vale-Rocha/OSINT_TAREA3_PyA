@@ -1,7 +1,7 @@
 from datetime import datetime
 import principal as lib
 resultados = {}
-Authorized = 0
+AUTHORIZED = 0
 who = '1.1.1.1'
 
 def menu_activos():
@@ -62,9 +62,9 @@ def menu_activos():
                 print("ERROR: Ingrese una opcion valida")
 
 def Auth():
-    if Authorized == 0:
+    if AUTHORIZED == 0:
         print("\nACCESO DENEGADO\n")
-    elif Authorized == 1:
+    elif AUTHORIZED == 1:
         print("\nBIENVENIDO")
         menu_activos()
     else:
